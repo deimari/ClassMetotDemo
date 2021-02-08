@@ -1,0 +1,13 @@
+C:\Codes\C#\Examples\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.exe
+C:\Codes\C#\Examples\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.deps.json
+C:\Codes\C#\Examples\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.runtimeconfig.json
+C:\Codes\C#\Examples\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.runtimeconfig.dev.json
+C:\Codes\C#\Examples\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.dll
+C:\Codes\C#\Examples\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.pdb
+C:\Codes\C#\Examples\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.csprojAssemblyReference.cache
+C:\Codes\C#\Examples\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.AssemblyInfoInputs.cache
+C:\Codes\C#\Examples\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.AssemblyInfo.cs
+C:\Codes\C#\Examples\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.csproj.CoreCompileInputs.cache
+C:\Codes\C#\Examples\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.dll
+C:\Codes\C#\Examples\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.pdb
+C:\Codes\C#\Examples\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.genruntimeconfig.cache
